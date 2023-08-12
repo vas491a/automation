@@ -6,3 +6,4 @@ sudo service status/systemctl servgitice status
 sudo systemctl stop service
 vi file name this is edit file local
 ls cmnd this is use of disply the list
+git vert
